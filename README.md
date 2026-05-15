@@ -7,7 +7,7 @@ Python | PyTorch | FastAPI | Node.js | Time-Series & Medical AI
 
 ---
 
-### 🔹 About Me
+### 🤖 About Me
 AI Engineer with 5+ years building **real-world ML systems**.  
 Focus: **Clinical Decision Support, Medical Imaging, and Time-Series Forecasting**.  
 Bridging **research & production-ready AI solutions**.  
@@ -37,7 +37,7 @@ Bridging **research & production-ready AI solutions**.
 ---
 
 ### 📚 Publications
-- [**OAMLS** – Objective-Aware Meta-Learning, Elsevier (Under Review)] 
+- [**OAMLS** – Objective-Aware Meta-Learning, Elsevier (Under Review)](https://www.sciencedirect.com)  
 - [**AI-Assisted Haematology** – Springer Nature (2025)](https://doi.org/10.1186/s12911-025-01234-5)  
 - [**Predicting Gestational Diabetes** – Springer Nature (2026)](https://doi.org/10.1186/s12884-026-01234-7)  
 - [**Exclusive Breastfeeding Prediction** – Springer Nature (2026)](https://doi.org/10.1186/s12884-026-05678-9)  
@@ -45,5 +45,6 @@ Bridging **research & production-ready AI solutions**.
 ---
 
 ### 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamoodhaqiqat@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alii-haghighat/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alihaghighat)  
