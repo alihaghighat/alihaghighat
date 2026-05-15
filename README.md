@@ -1,7 +1,6 @@
 ### Hi 👋, I'm Ali (Hamood) Haghighat
 
-![MasterHead](https://raw.githubusercontent.com/alihaghighat/Predict-Exclusive-Breastfeeding/main/assets/logo.png)
-
+![MasterHead](./Ali Haghighat.png)
 <h3 align="center">Applied AI Engineer | ML Systems for Healthcare & Finance</h3>
 <p align="center">Python | PyTorch | FastAPI | Node.js | Time-Series & Medical AI</p>
 
