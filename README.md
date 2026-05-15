@@ -1,7 +1,8 @@
 ### Hi 👋, I'm Ali (Hamood) Haghighat
 
-![MasterHead](./Ali Haghighat.png)
-<h3 align="center">Applied AI Engineer | ML Systems for Healthcare & Finance</h3>
+<p align="center">
+  <img src="Ali Haghighat.png" alt="MasterHead" />
+</p><h3 align="center">Applied AI Engineer | ML Systems for Healthcare & Finance</h3>
 <p align="center">Python | PyTorch | FastAPI | Node.js | Time-Series & Medical AI</p>
 
 ---
