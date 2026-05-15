@@ -8,13 +8,13 @@ Python | PyTorch | FastAPI | Node.js | Time-Series & Medical AI
 ---
 
 ### 🔹 About Me
-AI Engineer with 5+ years of experience building **real-world ML systems**.  
+AI Engineer with 5+ years building **real-world ML systems**.  
 Focus: **Clinical Decision Support, Medical Imaging, and Time-Series Forecasting**.  
-Passionate about bridging **research & production-ready AI solutions**.  
+Bridging **research & production-ready AI solutions**.  
 
 ---
 
-### 🔹 Skills
+### 🛠 Skills
 **ML & AI:** Deep Learning, Meta-Learning, Time-Series, Medical AI  
 **Programming:** Python, Node.js, FastAPI, SQL, MongoDB  
 **Infrastructure:** GPU Computing, Linux, Distributed ML  
@@ -22,9 +22,9 @@ Passionate about bridging **research & production-ready AI solutions**.
 
 ---
 
-### 🔹 Selected Projects
+### 💡 Selected Projects
 **Smart Pediatric Medical Assistant** – AI Clinical Support  
-- Context-aware recommendations for pediatric care  
+- Context-aware pediatric care recommendations  
 - Tech: Python, FastAPI, RTL interface for Farsi  
 
 **LaparoSeg** – Medical Image Segmentation  
@@ -36,20 +36,14 @@ Passionate about bridging **research & production-ready AI solutions**.
 
 ---
 
-### 🔹 Education
-**M.Sc. IT** – Shiraz University (GPA: 18.26/20, Ranked 1st)  
-**B.Sc. Computer Science** – Shiraz University  
+### 📚 Publications
+- [**OAMLS** – Objective-Aware Meta-Learning, Elsevier (Under Review)] 
+- [**AI-Assisted Haematology** – Springer Nature (2025)](https://doi.org/10.1186/s12911-025-01234-5)  
+- [**Predicting Gestational Diabetes** – Springer Nature (2026)](https://doi.org/10.1186/s12884-026-01234-7)  
+- [**Exclusive Breastfeeding Prediction** – Springer Nature (2026)](https://doi.org/10.1186/s12884-026-05678-9)  
 
 ---
 
-### 🔹 Publications
-- **OAMLS** – Objective-Aware Meta-Learning, Elsevier (Under Review)  
-- **AI-Assisted Haematology** – Springer Nature (2025)  
-- **Predicting Gestational Diabetes** – Springer Nature (2026)  
-- **Exclusive Breastfeeding Prediction** – Springer Nature (2026)  
-
----
-
-### 🔹 Contact Me
+### 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alii-haghighat/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alihaghighat)  
