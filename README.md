@@ -7,14 +7,14 @@
 
 ---
 
-### 🤖 About Me
+###  About Me
 AI Engineer with 5+ years building **real-world ML systems**.  
 Focus: **Clinical Decision Support, Medical Imaging, and Time-Series Forecasting**.  
 Bridging **research & production-ready AI solutions**.  
 
 ---
 
-### 🛠 Skills
+###  Skills
 **ML & AI:** Deep Learning, Meta-Learning, Time-Series, Medical AI  
 **Programming:** Python, Node.js, FastAPI, SQL, MongoDB  
 **Infrastructure:** GPU Computing, Linux, Distributed ML  
@@ -22,7 +22,7 @@ Bridging **research & production-ready AI solutions**.
 
 ---
 
-### 💡 Selected Projects
+###  Selected Projects
 **Smart Pediatric Medical Assistant** – AI Clinical Support  
 - Context-aware pediatric care recommendations  
 - Tech: Python, FastAPI, RTL interface for Farsi  
@@ -36,7 +36,7 @@ Bridging **research & production-ready AI solutions**.
 
 ---
 
-### 📚 Publications
+###  Publications
 - [**OAMLS** – Objective-Aware Meta-Learning, Elsevier (Under Review)](https://www.sciencedirect.com)  
 - [**AI-Assisted Haematology** – Springer Nature (2025)](https://doi.org/10.1186/s12911-025-01234-5)  
 - [**Predicting Gestational Diabetes** – Springer Nature (2026)](https://doi.org/10.1186/s12884-026-01234-7)  
@@ -44,7 +44,7 @@ Bridging **research & production-ready AI solutions**.
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 <p align="center">
   <a href="mailto:hamoodhaqiqat@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
