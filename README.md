@@ -37,7 +37,7 @@ Bridging **research & production-ready AI solutions**.
 ---
 
 ###  Publications
-- [**OAMLS** – Objective-Aware Meta-Learning, Elsevier (Under Review)](https://www.sciencedirect.com)  
+- [**OAMLS** – Objective-Aware Meta-Learning, Elsevier (Under Review)
 - [**AI-Assisted Haematology** – Springer Nature (2025)](https://doi.org/10.1186/s12911-025-01234-5)  
 - [**Predicting Gestational Diabetes** – Springer Nature (2026)](https://doi.org/10.1186/s12884-026-01234-7)  
 - [**Exclusive Breastfeeding Prediction** – Springer Nature (2026)](https://doi.org/10.1186/s12884-026-05678-9)  
